@@ -6,7 +6,9 @@ Demo publik: klasifikasi jenis kelamin berbasis citra mata manusia menggunakan
 
 ## Live Demo
 
-Deploy via Streamlit Community Cloud (gratis). Link demo: (isi setelah deploy)
+**https://vit-eye-gender-classification-mpumsh4jmabrhrsadawrjp.streamlit.app/**
+
+Deploy via Streamlit Community Cloud (gratis).
 
 ## Fitur
 
