@@ -4,6 +4,6 @@ torch==2.13.0+cpu
 torchvision==0.28.0+cpu
 transformers>=4.30.0
 pillow>=9.5.0
-opencv-python-headless==4.12.0.88  # pinned: OpenCV 5.0 removed cv2.CascadeClassifier
+opencv-python-headless==4.14.0.94  # 4.x terakhir: CascadeClassifier masih ada; numpy>=2 tanpa batas <2.3 (ada wheel py3.14)
 numpy>=1.24.0
 plotly>=5.17.0
