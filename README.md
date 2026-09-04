@@ -1,4 +1,4 @@
-# 👁️ Gender Classification from Eye Images (ViT)
+#  Gender Classification from Eye Images (ViT)
 
 Demo publik: klasifikasi jenis kelamin berbasis citra mata manusia menggunakan
 **Vision Transformer (ViT-Base/16)** — model fine-tuned dari skripsi
@@ -7,8 +7,6 @@ Demo publik: klasifikasi jenis kelamin berbasis citra mata manusia menggunakan
 ## Live Demo
 
 **https://vit-eye-gender-classification-mpumsh4jmabrhrsadawrjp.streamlit.app/**
-
-Deploy via Streamlit Community Cloud (gratis).
 
 ## Fitur
 
@@ -30,12 +28,5 @@ Deploy via Streamlit Community Cloud (gratis).
 - Checkpoint: D0 (grayscale preprocessing)
 - Akurasi: val 97.2% / test 95.7%
 - Berat model publik di: https://huggingface.co/Hanura22/vit-eye-gender-classification
-
-## Menjalankan Lokal
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 > Model untuk tujuan penelitian. Bukan untuk produksi tanpa validasi lebih lanjut.
